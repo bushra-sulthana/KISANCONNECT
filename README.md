@@ -1,7 +1,7 @@
 # KisanConnect 🌾
 > **Theme:** *Agriculture Reimagined for the Digital Era • Technology Empowering Nature*
 
-**KisanConnect** is an advanced, unified agricultural ecosystem designed to bridge the gaps between core agricultural stakeholders: **Farmers**, **Procurement Buyers & Processing Mills**, and **Agro-Transport Logistics Providers**. By integrating real-time meteorological data, dynamic pricing engines, camera-based QR verification, digital load receiving manifests, and smart truck-capacity matching, KisanConnect removes inefficient intermediaries, ensures fair price discovery, and offers complete transparency from farm to fork.
+**KisanConnect** is an advanced, unified agricultural ecosystem designed to bridge the gaps between core agricultural stakeholders: **Farmers**, **Procurement Buyers & Processing Mills**, and **Agro-Transport Logistics Providers**. By integrating real-time meteorological data, dynamic pricing engines, camera-based QR verification, digital load receiving manifests, and smart truck-capacity matching, KisanConnect removes inefficient intermediaries, ensures fair price discovery, and offers complete transparency from farm to fork.t also empowers stakeholders with seamless digital coordination, reducing delays, operational costs, and manual errors. By promoting data-driven decisions and building trust among all participants, KisanConnect creates a smarter, more efficient, and sustainable agricultural supply chain.
 
 ---
 
